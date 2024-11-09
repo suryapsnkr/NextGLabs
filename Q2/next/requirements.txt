@@ -1,0 +1,4 @@
+djangorestframework
+djoser
+drf-yasg
+pillow
